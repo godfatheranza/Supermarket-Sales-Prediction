@@ -1,4 +1,4 @@
-# Supermarket Sales Prediction Using Time Seriese Sales Forecasting ARIMA
+# Supermarket Sales Prediction Using Time Seriese Sales Forecasting ARIMA and Tableau Visualization for Desicion Making.
 
 <p>In this project our main goal is to use the power of traditional statistical model like ARIMA for forecasting sales prediction of supermarket sales data.This will help any supermarket to find any seasonal, trend and patterns in their sales as well as from forecasting they can plan in well advance for future goal.The data we have used in order to do this project is from Kaggle.<p>
 
